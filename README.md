@@ -1,3 +1,1 @@
-## Hi There!
-
-## This is my first post on github 
+### Hi There! Welcome to My Github Profile
